@@ -1,5 +1,7 @@
 # Weather Trend Forecasting - Technical Assessment
 
+## Link to the demo video: https://drive.google.com/file/d/1yu5WpqyvOk4vZAMVpVDeSSR37PBFawqw/view?usp=sharing
+
 ## 📌 Project Overview
 This project aims to analyze and forecast global weather trends using the **Global Weather Repository** dataset. The dataset contains over 40 features related to daily weather conditions across different locations worldwide. The goal is to implement data preprocessing, exploratory data analysis (EDA), various forecasting models, anomaly detection, and climate pattern analysis to derive meaningful insights.
 
