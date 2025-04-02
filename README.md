@@ -104,7 +104,7 @@ This project aims to analyze and forecast global weather trends using the **Glob
 4️⃣ View the final report for insights and findings.
 
 ## 📌 Submission Details
-- **GitHub Repository:** [Insert Link]
+- **GitHub Repository:** [https://github.com/Prajwal111299/PM_Accelerator_technical_assessment/tree/master]
 - **Includes:**
   - 📜 Jupyter Notebook
   - 📊 Processed dataset (if shareable)
