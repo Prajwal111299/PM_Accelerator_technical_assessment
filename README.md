@@ -93,11 +93,7 @@ This project aims to analyze and forecast global weather trends using the **Glob
    git clone <repository_link>
    cd weather-forecasting-project
 ```
-2️⃣ Install dependencies:
-```sh
-   pip install -r requirements.txt
-```
-3️⃣ Open the Jupyter Notebook and execute all cells:
+2️⃣  Open the Jupyter Notebook and execute all cells:
 ```sh
    jupyter notebook PMA_technical_assessment_Prajwal.ipynb
 ```
